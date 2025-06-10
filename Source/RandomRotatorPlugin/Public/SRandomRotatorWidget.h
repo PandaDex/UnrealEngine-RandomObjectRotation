@@ -19,9 +19,9 @@ public:
 
 private:
     float MinXVal = 0.f;
-    float MaxXVal = 0.f;
+    float MaxXVal = 180.f;
     float MinYVal = 0.f;
-    float MaxYVal = 0.f;
+    float MaxYVal = 180.f;
     float MinZVal = 0.f;
-    float MaxZVal = 0.f;
+    float MaxZVal = 180.f;
 };
