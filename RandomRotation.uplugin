@@ -1,0 +1,23 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Random Rotator Plugin",
+    "Description": "Rotates selected actors randomly within set constraints.",
+    "Category": "Editor",
+    "CreatedBy": "PandaDex",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "RandomRotatorPlugin",
+            "Type": "Editor"
+        }
+    ]
+}
